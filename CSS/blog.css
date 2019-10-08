@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+/*    background-color: #000;*/
+}
+
+.jumbotron {
+    width: 100%;
+    height: 229px;
+    background-color: lightgoldenrodyellow;
+/*    margin-left: 30%;*/
+/*    margin-right: 30%;*/
+    display: block;
+}
+
+.heading {
+    font-family: cursive;
+/*    width: 38.5%;*/
+    text-align: center;
+    padding-left: 2%;
+/*    background-color: darkslategray;*/
+    color: #FAFAD2;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.jumboImage1 {
+    width: 93.6%;
+    height: 88.7%;
+/*    padding-left: 2%;*/
+    margin-top: -10.5%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: absolute;
+}
+
+.link {
+    display: block;
+    position: absolute;
+    margin-left: 50%;
+    margin-bottom: -39%;
+    font-size: 2em;
+}
+
+.text {
+    display: block;
+    padding-top: -80%;
+    font-family: 'Lexend Deca', sans-serif;
+    text-decoration-style: solid;
+}

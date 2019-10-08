@@ -1,0 +1,202 @@
+/*
+.item img{
+    height : 3px;
+    width : 100%;
+}
+*/
+
+
+#nav-name{
+    font-size: 2.58em;
+    color: #f63;
+    font-family: 'Amatic SC', cursive;
+}
+
+#pictures{
+/*    margin-left: 35%;*/
+    margin-top: -8px;
+/*    align-content: center;*/
+}
+
+#time{
+    font-family: 'Amatic SC', cursive;
+    color: #f63;
+    font-size: 3em;
+    text-align: center;
+}
+
+.navbar-custom{
+    background-color: transparent;
+}
+
+.jumbotron{
+/*    margin-left: 10%;*/
+    background-color: #eeeeee;
+    padding-left: 50px;
+    height : 70%;
+    width: 50%;
+    margin-top: 70px;
+    padding-top: 5px;
+/*    border: 2px dotted #f63*/
+}
+
+.col-xs-12{
+    margin-left: -20px;
+    margin-right: -8px;
+    margin-bottom: -30px;
+}
+
+#heading{
+    color: rgb(10, 57, 119);
+    font-size: 3em;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 5px;
+    margin-left: 200px;
+}
+
+#myCarousel{
+    margin-top: 65px;
+    width: 40%;
+}
+
+.myimg{
+    margin-top: -20px;
+}
+
+.centered {
+    font-family: 'Sarala', sans-serif;
+    position: absolute;
+    top: 22%;
+    margin-left: -38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.75;
+    font-size: 2.15em;
+}
+
+
+.centered1 {
+    font-family: 'Sarala', sans-serif;
+    position: absolute;
+    top: 10%;
+    margin-left: -36.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: orange;
+    opacity: 0.85;
+    font-size: 2.55em;
+    width : 40%;
+    height: 30px;
+    text-align: center;
+    background-color: transparent;
+}
+
+#div1 {
+    position: absolute;
+    font-size: 32px;
+    color: orange;
+/*    rgb(10, 57, 119)*/
+    top: 11.3%;
+    margin-left: -46.8%;
+    left: 50%;
+    opacity: 0.85;
+    transform: translate(-50%, -50%);
+}
+
+.typewriter {
+    font-family: Courier, monospace;
+	display: inline-block;
+}
+
+.typewriter-text {
+    display: inline-block;
+  	overflow: hidden;
+  	letter-spacing: 2px;
+ 	animation: typing 2s steps(30, end), blink .75s step-end infinite;
+    white-space: nowrap;
+    font-size: 30px;
+    font-weight: 700;
+/*    color: #333333;*/
+    border-right: 4px solid orange;
+    box-sizing: border-box;
+    color: white;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: red;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: lightgoldenrodyellow;
+  cursor: pointer;
+}
+
+container {
+    color: #f96d15;
+}
+
+container.h1 {
+    margin-top: 7%;
+    text-align: center;
+    font-size: 2.1em;
+}
+
+container.h2 {
+    text-align: center;
+    transition-delay: 0.6s;
+    font-size: 1.4em;
+}

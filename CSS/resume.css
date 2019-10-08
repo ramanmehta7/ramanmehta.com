@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f8f8; 
+/*    color: #f96d15;*/
+}
+
+.right {
+    text-align: right;
+    margin-top: 4.5%;
+    margin-right: 2%;
+}
+
+.left {
+    margin-left: 2%;
+}
+
+.big {
+    font-size: 2em;
+    padding-left: 1.2%;
+}
+
+.table {
+    border: 1;
+}
+
+.title {
+    background-color: darkgray;
+}
+
+.alternateTableRow {
+    background-color: lightgoldenrodyellow;
+}
+
+.github {
+    font-size: 3.3em;
+/*    padding-top: 50px;*/
+/*    margin-left: 80%;*/
+}
+
+.internship {
+    font-size: 1.25em;
+}
+/*
+
+.blog {
+    font-size: 1.25em;
+}*/
